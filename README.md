@@ -1,1 +1,1 @@
-# Battleship_game
+This is Battleship Game with 7 by 7 board. All the instructions in the programm. Good luck!
